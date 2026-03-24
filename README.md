@@ -4,7 +4,7 @@
 
 **Authors:** Advithi Baddam, Julia Pryor, Revati Tambe, and Nathan Tao (all equal contributors)
 
-Work completed with mentorship from instructors at the MIT Beaver Works Summer Institute (Course: Quantum Software Development)
+Work completed with mentorship from instructors @ MIT Beaver Works Summer Institute (Course: Quantum Software Development)
 
 <hr/>
 
